@@ -7,7 +7,7 @@
 	<artifactId>ims-center-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ims-center-eureka</name>
-	<description>Demo project for Spring Boot</description>
+	<description>eureka project for Spring Boot</description>
 
 	<!-- 父包 -->
 	<parent>
